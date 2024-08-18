@@ -1,0 +1,224 @@
+*{
+   
+    background-color: #1E1E1E;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
+
+
+.fix{
+    display: flex;
+    justify-content: center;
+    margin: 80px 500px;
+    flex-direction: column;
+    border-radius: 25px;
+}
+
+
+.all{
+    margin: 100px 550px;
+   border-radius: 25px;
+   background-color: white;
+}
+
+
+
+
+
+
+
+
+
+
+.top{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #3D1B64;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-left-radius: 40%;
+}
+
+
+
+
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: white;
+    border-top-right-radius: 40%;
+   
+   
+}
+
+
+
+
+.socialid{
+    display: flex;
+    justify-content: center;
+   
+    background-color: white;
+
+
+}
+
+
+.bottom{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #3D1B64;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border-top-right-radius: 40%;
+}
+
+
+
+
+.realname{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+
+.image{
+    background-color: #3D1B64;
+   
+}
+
+
+.follow{
+    background-color: white;
+   
+    color: black;
+    padding: 15px 50px;
+    text-align: center;
+    border-radius: 25px;
+    font-size: 18px;
+    border: none;
+}
+
+
+
+
+.follow:hover{
+    background-color: black;
+    color: white;
+}
+
+
+
+
+.first{
+    background-color: white;
+    border-radius: 25px;
+}
+
+
+
+
+.second{
+    background-color: white;
+    border-radius: 25px;
+}
+
+
+
+
+.message{
+    background-color: white;
+    color: black;
+    padding: 15px 50px;
+    text-align: center;
+    border-radius: 25px;
+    font-size: 18px;
+    border: none;
+   
+}
+
+
+
+
+.message:hover{
+    background-color: black;
+    color: white;
+}
+
+
+
+
+
+
+
+
+.facebook{
+    background-color: white;
+}
+
+
+.linkedin{
+    background-color: white;
+}
+
+
+.twitter{
+    background-color: white;
+}
+
+
+.insta{
+    background-color: white;
+}
+
+
+
+
+.realname{
+    background-color: white;
+}
+
+
+
+
+.b{
+    background-color: white;
+}
+
+
+
+
+.about{
+    text-align: center;
+    background-color: white;
+}
+
+
+
+
+.username{
+    background-color: white;
+}
+
+
+
+
+
+
+.circular{
+
+
+    border-radius: 50%;
+}
+
